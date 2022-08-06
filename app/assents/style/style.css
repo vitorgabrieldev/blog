@@ -8,7 +8,7 @@ body, html
 }
 .navbarPrincipalPage
 {
-    margin-left: 50%;
+    margin-left: 0;
     transform: translateX(-50%);
 
     gap: 2rem;
