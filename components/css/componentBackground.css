@@ -1,0 +1,15 @@
+body, html
+{
+    background: #fafafa;
+}
+.conteudoBack
+{
+    padding: 2rem 15rem 0 15rem;
+}
+.conteudoBack p
+{
+
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+
+}
