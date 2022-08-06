@@ -1,0 +1,22 @@
+/* Import fonts ( Google fonts ); */
+/*
+    https://fonts.google.com/
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+/*
+    font-family: 'Poppins', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+/*
+    font-family: 'Roboto Mono', monospace;
+*/
+
+*
+{
+
+    /* font-Primary */
+    font-family: 'Poppins', sans-serif;
+
+}
